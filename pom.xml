@@ -153,7 +153,7 @@ Brotli, Zstandard and ar, cpio, jar, tar, zip, dump, 7z, arj.</description>
     <commons.changes.onlyCurrentVersion>true</commons.changes.onlyCurrentVersion>
     <commons.module.name>org.apache.commons.compress</commons.module.name>
     <maven.compiler.source>1.8</maven.compiler.source>
-    <mockito.version>4.11.0</mockito.version>
+    <mockito.version>5.12.0</mockito.version>
     <commons.jira.pid>12310904</commons.jira.pid>
     <commons.distSvnStagingUrl>scm:svn:https://dist.apache.org/repos/dist/dev/commons/${commons.componentid}</commons.distSvnStagingUrl>
     <commons.rc.version>RC1</commons.rc.version>
