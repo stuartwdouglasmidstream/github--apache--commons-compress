@@ -149,7 +149,7 @@ Brotli, Zstandard and ar, cpio, jar, tar, zip, dump, 7z, arj.</description>
     <pax.exam.version>4.13.5</pax.exam.version>
     <slf4j.version>2.0.12</slf4j.version>
     <commons.componentid>compress</commons.componentid>
-    <asm.version>9.6</asm.version>
+    <asm.version>9.7</asm.version>
     <commons.changes.onlyCurrentVersion>true</commons.changes.onlyCurrentVersion>
     <commons.module.name>org.apache.commons.compress</commons.module.name>
     <maven.compiler.source>1.8</maven.compiler.source>
